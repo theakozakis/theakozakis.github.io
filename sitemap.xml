@@ -2,20 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <url>
-    <loc>http://theakozakis.github.io/blog/more/</loc>
-    <lastmod>2018-07-26T17:44:36-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://theakozakis.github.io/blog/second/</loc>
-    <lastmod>2018-07-25T17:44:36-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://theakozakis.github.io/blog/first/</loc>
-    <lastmod>2018-07-24T17:44:36-07:00</lastmod>
-  </url>
   
   <url>
     <loc>http://theakozakis.github.io/</loc>
@@ -23,7 +9,7 @@
   </url>
   
   <url>
-    <loc>http://theakozakis.github.io/blog/</loc>
+    <loc>http://theakozakis.github.io/CV/</loc>
     <lastmod>2018-07-26T17:44:36-07:00</lastmod>
   </url>
   
@@ -32,17 +18,14 @@
   </url>
   
   <url>
-    <loc>http://theakozakis.github.io/categories/</loc>
+    <loc>http://theakozakis.github.io/outreach/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://theakozakis.github.io/projects/</loc>
+    <loc>http://theakozakis.github.io/research/</loc>
   </url>
   
-  <url>
-    <loc>http://theakozakis.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
+
   
 </urlset>
