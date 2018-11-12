@@ -1,5 +1,31 @@
-http://theakozakis.com/
-http://theakozakis.com/CV
-http://theakozakis.com/about
-http://theakozakis.com/research
-http://theakozakis.com/outreach
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  
+  <url>
+    <loc>http://theakozakis.github.io/</loc>
+    <lastmod>2018-07-26T17:44:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theakozakis.github.io/CV/</loc>
+    <lastmod>2018-07-26T17:44:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://theakozakis.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://theakozakis.github.io/outreach/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://theakozakis.github.io/research/</loc>
+  </url>
+  
+
+  
+</urlset>
