@@ -4,26 +4,26 @@
   
   
   <url>
-    <loc>http://theakozakis.github.io/</loc>
+    <loc>http://theakozakis.com/</loc>
     <lastmod>2018-07-26T17:44:36-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://theakozakis.github.io/CV/</loc>
+    <loc>http://theakozakis.com/CV/</loc>
     <lastmod>2018-07-26T17:44:36-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://theakozakis.github.io/about/</loc>
+    <loc>http://theakozakis.com/about/</loc>
   </url>
   
   <url>
-    <loc>http://theakozakis.github.io/outreach/</loc>
+    <loc>http://theakozakis.com/outreach/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://theakozakis.github.io/research/</loc>
+    <loc>http://theakozakis.com/research/</loc>
   </url>
   
 
